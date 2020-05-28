@@ -1,11 +1,12 @@
 # Emotion-Detection
 Domain Adaptation for Emotion Detection from Face Expressions (Western to Pakistani Dramas and Talk Shows) 
 
-## Datasets
+## Related work 
+### Datasets
 * fer2013 dataset  [click here](https://www.kaggle.com/deadskull7/fer2013)
-* Here is the solution [click here] (https://github.com/gagan16/Emotion-Detection)
+* Here is the solution [click here](https://github.com/gagan16/Emotion-Detection)
 
-* You can also check this out good notebook of visualization [click here] (https://www.kaggle.com/hujunnn/pytorch-fer-2013)
+* You can also check this out good notebook of visualization [click here](https://www.kaggle.com/hujunnn/pytorch-fer-2013)
 
 * 90% Accuracy [click here](https://www.kaggle.com/deadskull7/facreco-90-14-10-epochs) for notebook
 
@@ -23,7 +24,7 @@ Domain Adaptation for Emotion Detection from Face Expressions (Western to Pakist
 
 
 
-## Github Repos 
+### Github Repos 
 * python framework Deep Face here is github repo [click here](https://github.com/serengil/deepface)
 
 * github repo used dataset Fer2013 and CK+ dataset [click here](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
@@ -37,7 +38,9 @@ Domain Adaptation for Emotion Detection from Face Expressions (Western to Pakist
 
 
 
-## Butify
+## Extra Features
+
+Make Your github Repo same like this [click Here](https://github.com/maelfabien/Multimodal-Emotion-Recognition)
 
 | Python | 3.7 | 3.6 | 3.5 |
 | :---: | :---: | :---: | :---: |
