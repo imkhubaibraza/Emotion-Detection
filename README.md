@@ -3,6 +3,8 @@ Domain Adaptation for Emotion Detection from Face Expressions (Western to Pakist
 
 ## Related work 
 ### Datasets
+
+* Another Kaggle dataset [click here](https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset)
 * fer2013 dataset  [click here](https://www.kaggle.com/deadskull7/fer2013)
 * Here is the solution [click here](https://github.com/gagan16/Emotion-Detection)
 
@@ -40,7 +42,9 @@ Domain Adaptation for Emotion Detection from Face Expressions (Western to Pakist
 
 ## Extra Features
 
-Make Your github Repo same like this [click Here](https://github.com/maelfabien/Multimodal-Emotion-Recognition)
+* Should follow this notebook for our project [click here](https://www.kaggle.com/jonathanoheix/face-expression-recognition-with-deep-learning)
+
+* Make Your github Repo same like this [click Here](https://github.com/maelfabien/Multimodal-Emotion-Recognition)
 
 | Python | 3.7 | 3.6 | 3.5 |
 | :---: | :---: | :---: | :---: |
